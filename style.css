@@ -9,7 +9,7 @@ main {
 	justify-content: center;
 	align-items: center;
 	background: #ec692d;
-	background: linear-gradient(180deg, rgba(113, 220, 251, 1) 0%, rgba(157, 230, 251, 1) 35%, rgba(241, 244, 245, 1) 100%);
+	background: linear-gradient(180deg, #db7474 0%, #dae7b4 35%, rgba(241, 244, 245, 1) 100%);
 }
 
 .grid-container {
@@ -20,7 +20,7 @@ main {
 
 	width: 85%;
 	height: 80%;
-	background-color: #d88d1d;
+	background-color: #383632;
 	box-shadow: 4px 4px 12px #000000;
 	padding: 15px;
 }
